@@ -1,2 +1,2 @@
 # guerreiro
-A single batle game
+A single battle game
